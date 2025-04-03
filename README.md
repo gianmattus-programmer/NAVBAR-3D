@@ -2,7 +2,7 @@
 
 Una elegante barra de navegación con efectos 3D y animaciones fluidas construida con HTML, CSS y JavaScript puro.
 
-![Vista previa del proyecto](preview.gif)
+![Vista previa del proyecto](preview.png)
 
 ## ✨ Características
 

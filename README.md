@@ -47,12 +47,12 @@ Puedes personalizar los colores y animaciones modificando las variables CSS en `
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](https://github.com/gianmattus-programmer/NAVBAR-3D/blob/main/LICENSE) para más detalles.
 
 ## 👤 Autor
 
-- [@GianMattus](https://github.com/tuusuario)
-- [Portfolio](https://tuportfolio.com)
+- [@GianMattus](https://github.com/gianmattus-programmer)
+- [Portfolio](https://gianmattus-programmer.netlify.app)
 
 ---
 ⭐️ ¡Si te gustó este proyecto, no olvides darle una estrella! ⭐️
